@@ -1,0 +1,14 @@
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\bin\Debug\net10.0\HomeElectricityCostEstimator.exe
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\bin\Debug\net10.0\HomeElectricityCostEstimator.deps.json
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\bin\Debug\net10.0\HomeElectricityCostEstimator.runtimeconfig.json
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\bin\Debug\net10.0\HomeElectricityCostEstimator.dll
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\bin\Debug\net10.0\HomeElectricityCostEstimator.pdb
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\obj\Debug\net10.0\HomeElectricityCostEstimator.GeneratedMSBuildEditorConfig.editorconfig
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\obj\Debug\net10.0\HomeElectricityCostEstimator.AssemblyInfoInputs.cache
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\obj\Debug\net10.0\HomeElectricityCostEstimator.AssemblyInfo.cs
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\obj\Debug\net10.0\HomeElectricityCostEstimator.csproj.CoreCompileInputs.cache
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\obj\Debug\net10.0\HomeElectricityCostEstimator.dll
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\obj\Debug\net10.0\refint\HomeElectricityCostEstimator.dll
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\obj\Debug\net10.0\HomeElectricityCostEstimator.pdb
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\obj\Debug\net10.0\HomeElectricityCostEstimator.genruntimeconfig.cache
+e:\Code Files\IT301\C#\Activities\HomeElectricityCostEstimator\obj\Debug\net10.0\ref\HomeElectricityCostEstimator.dll
